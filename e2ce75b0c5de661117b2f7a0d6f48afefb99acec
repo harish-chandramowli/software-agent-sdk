@@ -1,0 +1,22 @@
+tests/agent_server/test_vscode_router.py
+  s_199cd455db6fae::t_ae0119e6979aea 49-65
+  s_199cd455db6fae::t_2d6e0f8ddcb4ef 48
+openhands-agent-server/openhands/agent_server/vscode_router.py
+  s_199cd455db6fae::t_ce80be8b32c5be 23,28-32
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "e2ce75b0c5de661117b2f7a0d6f48afefb99acec",
+  "prompts": {},
+  "sessions": {
+    "s_199cd455db6fae": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b21dbfde-7d72-40cf-99a6-a93fa2b29a5d",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Harish Chandramowli <harish@flairesoftware.com>"
+    }
+  }
+}
