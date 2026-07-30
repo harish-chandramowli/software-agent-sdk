@@ -1,0 +1,25 @@
+tests/agent_server/test_vscode_service.py
+  s_c59e6ef2105d82::t_0357812f8118f3 493-529,531,535-537,539
+  s_c59e6ef2105d82::t_18bd14262fe85d 530,532-534,538
+  s_c59e6ef2105d82::t_63f9dc8da098cf 13
+  s_c59e6ef2105d82::t_e4f201c2cbc0a7 4
+  s_c59e6ef2105d82::t_fff04ccfd87a2a 540-541
+openhands-agent-server/openhands/agent_server/vscode_service.py
+  s_c59e6ef2105d82::t_b83cd5c538e6fc 4-5,18-51,327-330,333
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.18",
+  "base_commit_sha": "2df3979d6c48b73ce071937924a3b45849ce40a0",
+  "prompts": {},
+  "sessions": {
+    "s_c59e6ef2105d82": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b0c2bf77-b821-4433-b69c-4291e12c4eae",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Harish Chandramowli <harish@flairesoftware.com>"
+    }
+  }
+}
